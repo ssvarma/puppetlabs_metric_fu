@@ -1,0 +1,23 @@
+{
+  "project_page": "UNKNOWN",
+  "author": "puppetlabs",
+  "checksums": {
+    "README.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "manifests/codebase.pp": "a6600d52838173243d169849e7766ca0",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "b2e1a034eb57b15a7e2eff07973dd8dc",
+    "manifests/init.pp": "b71936ab0b33effa59db9277ecde5b32"
+  },
+  "dependencies": [
+
+  ],
+  "license": "UNKNOWN",
+  "summary": "UNKNOWN",
+  "description": "UNKNOWN",
+  "source": "UNKNOWN",
+  "types": [
+
+  ],
+  "version": "0.0.1",
+  "name": "puppetlabs-metric_fu"
+}
