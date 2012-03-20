@@ -1,7 +1,7 @@
 Metric_fu Module
 ===
-    Installs metric_fu and its prereqs and configures an apache vhost to serve its output
-
+  Installs metric_fu and its prereqs and configures an apache vhost to serve its output
+  
 Requires:
 ---
    Module "apache" and its dependencies (specifically, a2enmod must be present)  
