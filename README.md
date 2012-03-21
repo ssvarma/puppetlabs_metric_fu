@@ -27,6 +27,6 @@ Action - metric_fu::codebase
 ---
    The subclass 'codebse' pulls down one codebase/repo and runs metric_fu every time it changes  
    Assumes a git repository, though other vcsrepos should work with minor changes  
-   Class metric_fu to be included frst  
+   Class metric_fu to be included first  
 
 
