@@ -1,20 +1,22 @@
 {
-  "project_page": "UNKNOWN",
+  "project_page": "http://github.com/puppetlabs/puppetlabs-metric_fu",
   "author": "puppetlabs",
   "checksums": {
-    "README.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "README.md": "3be418b0020c39a30b1fd48671acbd72",
     "manifests/codebase.pp": "a6600d52838173243d169849e7766ca0",
-    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
-    "Modulefile": "b2e1a034eb57b15a7e2eff07973dd8dc",
+    "Modulefile": "b31f1d649f35bf113b0b902e5a911fee",
     "manifests/init.pp": "b71936ab0b33effa59db9277ecde5b32"
   },
   "dependencies": [
-
+    {
+      "name": "puppetlabs/vcsrepo",
+      "version_requirement": ">= 0.0.4"
+    }
   ],
   "license": "UNKNOWN",
-  "summary": "UNKNOWN",
-  "description": "UNKNOWN",
-  "source": "UNKNOWN",
+  "summary": "Module to install metric_fu",
+  "description": " Installs metric_fu and its prereqs and configures an apache vhost to serve its output",
+  "source": "http://github.com/puppetlabs/puppetlabs-metric_fu",
   "types": [
 
   ],
