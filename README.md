@@ -23,7 +23,7 @@ Parameters in metric_fu::codebase
 -  $repo_url: the git url of the repository  
 -  $repo_rev: what branch of that repository to run metrics on  
 
-Action in metric_fu::codebase
+Action - metric_fu::codebase
 ---
    The subclass 'codebse' pulls down one codebase/repo and runs metric_fu every time it changes  
    Assumes a git repository, though other vcsrepos should work with minor changes  
